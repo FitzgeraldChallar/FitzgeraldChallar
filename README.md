@@ -16,6 +16,8 @@ I am a software developer passionate about building scalable digital systems, au
 
 I specialize in backend systems, CMS integrations, modern frontend development, and database architecture. My focus is creating solutions that are efficient, intuitive, and built for long-term growth.
 
+I am also the Co-Founder & Developer at Tbay Tech Service, where we build digital solutions including business systems, websites, database solutions, automation platforms, and modern web applications for organizations and businesses.
+
 ---
 
 ## 🏆 Featured Project
