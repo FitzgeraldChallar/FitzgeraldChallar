@@ -63,7 +63,7 @@ This system was developed for the National Water, Sanitation & Hygiene Commissio
 ## ⚙️ Tools & Technologies
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,sanity,clerk,payaza,stripe,docker,zustand," />
 </p>
 
 ---
