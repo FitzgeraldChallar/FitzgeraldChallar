@@ -73,7 +73,7 @@ This system was developed for the National Water, Sanitation & Hygiene Commissio
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=FitzgeraldChallar&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitzgeraldChallar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -93,9 +93,23 @@ This system was developed for the National Water, Sanitation & Hygiene Commissio
 ## 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://github.com/FitzgeraldChallar">
+
+  <a href="https://github.com/FitzgeraldChallar" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/fitzgerald-challar-9b309b185/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://web.facebook.com/fitzgerald.challar/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/231887365288" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
 </p>
 
 ---
