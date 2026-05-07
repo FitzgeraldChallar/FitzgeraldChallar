@@ -68,18 +68,6 @@ This system was developed for the National Water, Sanitation & Hygiene Commissio
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FitzgeraldChallar&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FitzgeraldChallar&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ## 🌍 Areas of Interest
 
 - Backend Engineering
