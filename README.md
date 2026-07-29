@@ -24,8 +24,6 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 
 ### 📜 Certificate Management System — National Water, Sanitation & Hygiene Commission of Liberia
 
-### 📜 Certificate Management System — National Water, Sanitation & Hygiene Commission of Liberia
-
 Designed and developed a comprehensive certificate management platform that:
 - Digitizes compliance certificate application processes
 - Automates certificate generation upon approval
