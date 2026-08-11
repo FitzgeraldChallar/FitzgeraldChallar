@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fitzgerald Challar</h1>
+<h1 align="center">Hi 👋, I'm Fitzgerald  A. Challar</h1>
 
 <h3 align="center">
 Software Developer | Systems Builder | Creative Thinker
