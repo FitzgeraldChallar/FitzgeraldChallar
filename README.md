@@ -5,7 +5,7 @@ Software Developer | Systems Builder | Creative Thinker
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=A+Software+Developer;A+Poet;A+Christian+Minister" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=A+Software+Developer;A+Poet;A+Devout+Christian" />
 </p>
 
 ---
@@ -20,108 +20,135 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 
 ---
 
-## 🏆 Featured Project
+## 🏆 Significant Projects Completed
 
 ### 📜 Certificate Management System — National Water, Sanitation & Hygiene Commission of Liberia
-
-Designed and developed a comprehensive certificate management platform that:
-- Digitizes compliance certificate application processes
-- Automates certificate generation upon approval
-- Streamlines verification and approval workflows
-- Improves operational efficiency and transparency
-- Reduces manual paperwork and processing delays
-
-This system was developed for the National Water, Sanitation & Hygiene Commission to modernize and centralize certification operations.
+* **Type:** Internal Government System *(Access restricted to verified administrators)*
+* **Reference:** Mr. Morris Gono | Tel: +231-776-000-841
+* **Impact:** 
+  * Digitizes compliance certificate application processes.
+  * Automates certificate generation upon approval.
+  * Streamlines verification and approval workflows to reduce processing delays.
 
 ---
 
 ### 📬 Request Tracking System — National Water, Sanitation & Hygiene Commission of Liberia
-
-Developed an internal workflow optimization tool that:
-- Monitored, assigned, and managed organizational incoming service requests
-- Created an automated tracking system to flag delayed responses and optimize fulfillment speed
-- Provided real-time status updates for administrative supervisors
+ * **Live Link:** [nwashc-request-tracker-frontend.vercel.app/](https://nwashc-request-tracker-frontend.vercel.app/)
+* **Reference:** Mr. Morris Gono | Tel: +231-776-000-841
+* **Impact:** 
+  * Monitored, assigned, and managed organizational incoming service requests.
+  * Created an automated tracking system to flag delayed responses.
+  * Provided real-time status updates for administrative supervisors.
 
 ---
 
 ### 💼 Financial Monitoring System — Zinnah Child Development Academy
+* **Type:** Internal Institutional System *(Access restricted for privacy)*
+* **Reference:** Mr. Quincy Goll | Tel: +231-776-077-176
+* **Impact:** 
+  * Centralized fee collections, institutional budget forecasting, and expense management.
+  * Generated automated ledger logs and compliance reports for school administrators.
+  * Safeguarded sensitive financial transactions with internal access protocols.
 
-Engineered a secure internal financial tracking platform that:
-- Centralized fee collections, institutional budget forecasting, and expense management
-- Generated automated ledger logs and financial compliance reports for school administrators
-- Safeguarded sensitive institutional financial transactions with internal access protocols
+---
+
+### 📈 Financial Accounting & Reporting System — Hindsfeet Investments Liberia Limited
+* **Type:** Enterprise Financial Platform
+* **Reference:** Mrs. Esther Korvah Ricks | Tel: +231 77 777 7080
+* **Impact:** 
+  * Engineered a secure framework to automate core accounting workflows and wealth management tracking.
+  * Streamlines ledger logs with automated balance sheets and dynamic compliance reporting.
+  * Implemented role-based access controls to secure sensitive client transaction tables.
+
+---
+
+### 🎨 Web Platform — Devine Touch Resin Academy
+* **Live Link:** *[Insert repository or live link here]*
+* **Reference:** Mr. Jeremiah Thomas | Tel: +231 77 691 9740
+* **Impact:** 
+  * Designed and built a modern web portal for a practical skills training academy in Monrovia.
+  * Visualized course offerings across creative crafts and beauty services.
+  * Optimized user funneling to convert aspiring creatives into registered students.
 
 ---
 
 ### 🏢 Corporate Web Platform — Leena Group of Companies
-
-Designed and launched an enterprise corporate website focused on:
-- Architecting a clean, highly available responsive user interface for corporate branding
-- Optimizing search engine visibility (SEO) and cross-device speed performance
-- Presenting clear service portfolios and secure inquiries funneling for potential clients
+* **Live Link:** [leenagroupofcompanies-official.com](https://leenagroupofcompanies-official.com)
+* **Reference:** Mr. Varley Sesay | Tel: +231-770-447-334
+* **Impact:** 
+  * Architected a clean, highly available responsive UI for corporate branding.
+  * Optimized search engine visibility (SEO) and cross-device speed performance.
+  * Structured service portfolios and secure inquiry funnels for B2B client lead generation.
 
 ---
 
 ### 💸 Backend Developer — Smartr (formerly SmartLiberia) Fundraizer Web Application
-
-Served as the core backend developer for a modern fundraising platform by:
-- Designing and implementing scalable server-side database architectures and API endpoints
-- Securing transaction tracking, user profile management, and database query performances
-- Collaborating with frontend teams to deliver seamless user experience integrations
-
----
-
-### ☎️ Senior Developer (VOIP / AI Voice Agent) — Tbay Tech Services
-
-Architected and engineered an automated Voice Over Internet Protocol solutions platform that:
-- Programs automated phone call routing structures and responsive virtual answering logic
-- Integrates continuous AI voice agent development to optimize call diagnostics (Under Construction)
-- Configured telecommunication API nodes to handle concurrent incoming audio streams
+* **Live Link:** [fundraizer.com](https://fundraizer.com)
+* **Reference:** Mr. Marvin Tarawally | Tel: +231-770-555-518
+* **Impact:** 
+  * Designed and implemented scalable server-side database architectures and API endpoints.
+  * Secured transaction tracking, user profile management, and database query performances.
+  * Collaborated with frontend teams to deliver a seamless crowdfunding user experience.
 
 ---
 
 ### 🛒 E-commerce Platform — Cynlink Global
-
-Built an online commercial storefront optimized for digital commerce by:
-- Integrating dynamic shopping cart mechanics and scalable product inventory catalogs
-- Implementing secure customer checkout patterns and automated order notifications
-- Designing responsive administrative portals for order tracking and inventory updates
+* **Live Link:** [cynlinkglobal.com](https://cynlinkglobal.com)
+* **Reference:** Mr. Paye R. Bagnon | Tel: +231-775-008-356
+* **Impact:** 
+  * Built an online commercial storefront optimized for smooth digital commerce flows.
+  * Integrated dynamic shopping cart mechanics and scalable product inventory catalogs.
+  * Implemented secure checkout patterns and automated order tracking portals.
 
 ---
 
 ### 🌍 Non-Profit Digital Hub — RISE Liberia
-
-Developed a strategic online platform for a non-profit organization that:
-- Structured information architecture to effectively display organizational impact and initiatives
-- Engineered accessible, fast-loading interfaces for remote connectivity scenarios
-- Embedded secure contact structures to capture incoming volunteer and donor opportunities
+* **Live Link:** [riselr-ngo.vercel.app](https://vercel.app)
+* **Reference:** Mr. Alex Wrehyou | Tel: +231-775-152-637
+* **Impact:** 
+  * Structured high-performance informational layout to display organizational impact.
+  * Engineered highly accessible interfaces optimized for remote, low-connectivity scenarios.
+  * Embedded secure contact structures to reliably capture volunteer and donor opportunities.
 
 ---
 
 ### ⚙️ Service Portal — Stanley Services Group
-
-Built a professional commercial website that:
-- Visualized corporate service offerings and business capacities elegantly
-- Designed high-conversion client communication and service booking funnels
-- Ensured strong technical stability and rapid layout loading across web browsers
+* **Live Link:** [stanleyservices-lib.com](https://stanleyservices-lib.com)
+* **Reference:** Ms. Roberta Kemokai | Tel: +231-770-909-641
+* **Impact:** 
+  * Visualized corporate service offerings and engineering capacities cleanly.
+  * Designed high-conversion client communication and service booking funnels.
+  * Ensured strong technical stability and rapid layout loading across modern web browsers.
 
 ---
 
 ### 👥 Automated Recruitment Management System — Move of the Spirit Annual Sacred Worship, 2026
-
-Engineered an agile recruitment pipeline tool for an annual large-scale event that:
-- Automated the intake, parsing, and structured sorting of massive scale volunteer applications
-- Developed custom filtering systems to assign staff efficiently based on real-time event requirements
-- Streamlined interviewer workflows to fast-track onboarding timelines
+* **Live Link:** [mots-26.vercel.app](https://mots-26.vercel.app)
+* **References:** Pastor Solomon Gueh (+231 88 659 5336) & Mr. Marvin Tarawally (+231 77 055 5518)
+* **Impact:** 
+  * Automated the parsing and structured sorting of massive-scale volunteer applications.
+  * Developed custom filtering systems to assign staff efficiently based on live event requirements.
+  * Streamlined interviewer review dashboards to drastically fast-track onboarding timelines.
 
 ---
 
 ### 🚢 Export Business Platform — Prime Commodities Export Company
+* **Live Link:** [primecommodities-lbr.com](https://primecommodities-lbr.com)
+* **Reference:** Mr. Fadi Rammal | Tel: +231 77 587 7415
+* **Impact:** 
+  * Communicated bulk product availability, distribution capabilities, and trade logistics protocols.
+  * Deployed reliable communication systems to handle sensitive international trade requests.
+  * Configured intuitive architecture showcasing strict international trade compliance metrics.
 
-Designed a business-to-business web presence optimized for trade logistics that:
-- Communicated bulk product availability, distribution capabilities, and supply chain protocols
-- Deployed reliable communication forms to handle sensitive international trade requests
-- Configured an intuitive, secure platform navigation showcasing international trade compliance
+---
+
+### ☎️ Senior Developer (VOIP / AI Voice Agent) — Tbay Tech Services
+* **Status:** Under Construction 🛠️
+* **Reference:** Mr. Edward Lamin | Tel: +1(647) 718-3956
+* **Impact:** 
+  * Architected an automated Voice Over Internet Protocol solutions platform.
+  * Programmed automated call routing structures and responsive virtual answering logic.
+  * Configured telecommunication API nodes to gracefully handle concurrent incoming audio streams.
 
 ## 🛠️ Frameworks & Libraries
 
