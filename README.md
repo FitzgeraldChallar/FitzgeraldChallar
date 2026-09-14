@@ -72,16 +72,6 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 
 ---
 
-### 🏢 Corporate Web Platform — Leena Group of Companies
-* **Live Link:** [leenagroupofcompanies-official.com](https://leenagroupofcompanies-official.com)
-* **Reference:** Mr. Varley Sesay | Tel: +231-770-447-334
-* **Impact:** 
-  * Architected a clean, highly available responsive UI for corporate branding.
-  * Optimized search engine visibility (SEO) and cross-device speed performance.
-  * Structured service portfolios and secure inquiry funnels for B2B client lead generation.
-
----
-
 ### 💸 Backend Developer — Smartr (formerly SmartLiberia) Fundraizer Web Application
 * **Live Link:** [fundraizer.com](https://fundraizer.com)
 * **Reference:** Mr. Marvin Tarawally | Tel: +231-770-555-518
