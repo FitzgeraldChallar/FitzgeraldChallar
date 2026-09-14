@@ -93,7 +93,7 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 ---
 
 ### 🌍 Non-Profit Digital Hub — RISE Liberia
-* **Live Link:** [riselr-ngo.vercel.app](https://vercel.app)
+* **Live Link:** [riselr-ngo.vercel.app](https://riselr-ngo.vercel.app/)
 * **Reference:** Mr. Alex Wrehyou | Tel: +231-775-152-637
 * **Impact:** 
   * Structured high-performance informational layout to display organizational impact.
