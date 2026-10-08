@@ -73,7 +73,7 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 ---
 
 ### 🎨 Web Platform — Devine Touch Resin Academy
-* **Type:** Creative Academy Training Website
+* **Live Link:** [resin-devine.vercel.app](https://resin-devine.vercel.app) 
 * **Reference:** Mr. Jeremiah Thomas | Tel: +231 77 691 9740
 * **Impact:** 
   * Designed and built a modern web portal for a practical skills training academy in Monrovia.
