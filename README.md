@@ -62,6 +62,16 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 
 ---
 
+### 📈 Polished & Paid E-commerce Platform
+* **Live Link:** [polished-and-paid.challararise.workers.dev/](https://polished-and-paid.challararise.workers.dev)
+* **Reference:** Ms. Sonnie Monibah | Tel: +1 (701) 630-9144
+* **Impact:** 
+  * Architected a high-converting digital storefront: Developed a responsive, user-friendly e-commerce platform that successfully transitioned the Polished and         Paid brand online, expanding their market reach beyond local or physical limitations.
+  * Optimized checkout and user flow: Built a seamless, secure shopping cart and checkout pipeline to minimize cart abandonment rates and ensure data security for      customer transactions.
+  * Integrated robust backend data management: Implemented dynamic product catalogs, secure payment gateways, and automated inventory tracking to streamline            operations and reduce manual overhead for the business owners.
+
+---
+
 ### 🎨 Web Platform — Devine Touch Resin Academy
 * **Type:** Creative Academy Training Website
 * **Reference:** Mr. Jeremiah Thomas | Tel: +231 77 691 9740
