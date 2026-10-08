@@ -33,7 +33,7 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 ---
 
 ### 📬 Request Tracking System — National Water, Sanitation & Hygiene Commission of Liberia
- * **Live Link:** [nwashc-request-tracker-frontend.vercel.app/](https://nwashc-request-tracker-frontend.vercel.app/)
+ * **Live Link:** [nwashc-request-tracker-frontend.vercel.app/](https://nwashc-request-tracker-frontend.vercel.app)
 * **Reference:** Mr. Morris Gono | Tel: +231-776-000-841
 * **Impact:** 
   * Monitored, assigned, and managed organizational incoming service requests.
@@ -62,8 +62,8 @@ I am also the Co-Founder & Developer at Tbay Tech Service, where we build digita
 
 ---
 
-### 📈 Polished & Paid E-commerce Platform
-* **Live Link:** [polished-and-paid.challararise.workers.dev/](https://polished-and-paid.challararise.workers.dev)
+### 🛒 Polished & Paid E-commerce Platform
+* **Live Link:** [polished-and-paid.challararise.workers.dev](https://polished-and-paid.challararise.workers.dev)
 * **Reference:** Ms. Sonnie Monibah | Tel: +1 (701) 630-9144
 * **Impact:** 
   * Architected a high-converting digital storefront: Developed a responsive, user-friendly e-commerce platform that successfully transitioned the Polished and         Paid brand online, expanding their market reach beyond local or physical limitations.
