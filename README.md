@@ -12,11 +12,15 @@ Software Developer | Systems Builder | Creative Thinker
 
 ## 🚀 About Me
 
-I am a software developer passionate about building scalable digital systems, automation tools, and impactful web applications that solve real-world problems.
+Driven Software Engineer and Full-Stack Developer currently serving at the **National WASH Commission of Liberia**. Dedicated to building scalable digital systems, intelligent automation tools, and high-impact web applications that solve real-world problems. Guided by a commitment to excellence, integrity, and a belief that technical skill is best used when anchoring long-term growth and purposeful public and private solutions.
 
-I specialize in backend systems, CMS integrations, modern frontend development, and database architecture. My focus is creating solutions that are efficient, intuitive, and built for long-term growth.
+### 🛠️ Core Expertise
+* **Backend & Architecture:** High-performance backend systems and robust database architecture.
+* **Frontend & CMS:** Intuitive, modern frontend interfaces and seamless CMS integrations.
+* **Workflow Automation:** Streamlining institutional and business operations through custom automation platforms.
 
-I am also the Co-Founder & Developer at Tbay Tech Service, where we build digital solutions including business systems, websites, database solutions, automation platforms, and modern web applications for organizations and businesses.
+*Let’s connect to build something impactful.*
+
 
 ---
 
